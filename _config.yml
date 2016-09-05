@@ -1,0 +1,20 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3182957
+  brandStrength: 0.2526622
+  lightness: 0.5463659
+  rhythmicContrast: 0.306391
+typography_spectrum: 0
+layout_spectrum: 0.2662907
+name: NikkenDan
