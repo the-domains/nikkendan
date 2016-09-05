@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NikkenDan]]></title>
+        <description><![CDATA[NikkenDan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 06:50:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kenko Pet pad - NikkenDan]]></title>
+            <description><![CDATA[<article><h1>Kenko Pet pad - NikkenDan</h1><p>Made with the same Far-Infrared Technology used in the construction of KenkoTherm® Comforters, the Kenko™ PetPad provides your pet with the breathable warmth of ceramicreflective fibers. Combined with Advanced Magnetic Technology that features specially placed magnets, it's the ultimate in sleep and comfort technology for your pet.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d3cf5c0bfd86b5fe531254c02e63512d/noop.jpg?input=http%3A%2F%2Fnikkendan.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fkenko-petpad.jpg"></article>]]></description>
+            <link>http://nikkendan.com/product/kenko-pet-pad/</link>
+            <guid isPermaLink="false">f04eb6f7-dde7-46ca-8da1-562931db1f9b</guid>
+            <pubDate>Fri, 02 Sep 2016 06:50:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
